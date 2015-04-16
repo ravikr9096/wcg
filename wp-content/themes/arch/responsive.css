@@ -1,0 +1,153 @@
+/********************************
+LAPTOP SCREEN
+********************************/
+
+@media only screen and (max-width: 1600px) {
+	.header-widget { margin-right:3%; width:19%; }
+	.menu ul li a:link, .menu ul li a:visited { padding-right:60px; }
+	nav { margin-left:40px; }
+}
+
+
+/********************************
+IPAD LANDSCAPE (1024x768)
+********************************/
+
+@media only screen and (max-width: 1200px) {
+	.header-widget { display:none; }
+	.logo { margin-left:20px; margin-top:35px; }
+	nav { margin-left:50px; }
+	.welcome-arrow { width:665px; margin-top:20%; }
+	img { -webkit-transform:rotate(0); -moz-transform:rotate(0); transform:rotate(0); -moz-backface-visibility: hidden; }
+}
+
+
+/********************************
+IPAD PORTRAIT (768x1024)
+********************************/
+
+@media only screen and (max-width: 960px) {
+	.select-menu { display:block; border:1px solid #E6E6E6; float:right; margin-top:20px; 
+		width:250px; font:13px 'Open Sans', sans-serif; 
+	}
+	header nav { display:none; }
+	.inside { width:665px; }
+	.welcome-arrow { width:665px; }
+	.logo { margin-top:20px; margin-left:45px; margin-bottom:30px; }
+	ul.nav { position:relative; top:0; right:0; }
+	.services ul li { margin-right:0; margin-bottom:20px; width:100%; }
+	.team-list .member { margin-right:20px; width:188px; }
+	.team-list .member img.wp-post-image { max-width:188px; height:auto; }
+	.thumbs-animate { width:188px; height:164px; }
+	.team-social ul li { margin-right:1px; }
+	.sidebar { float:left; width:100%; }
+	.sidebar.left { padding:0; }
+	.left-content { margin-bottom:30px; }
+	.widget_search input[type="text"] { width:515px; }
+	.newsletter input[type="text"] { width:498px; }
+	.cat-list li a:link, .cat-list li a:visited { padding:10px 12px; }
+	.page-template-template-contact-php footer { position:relative; }
+	.contact-desc { width:100%; }
+	.cpage #respond { margin-bottom:0; width:615px; }
+	.cpage #respond input[type="text"] { width:268px !important; }
+	.cpage #respond textarea { width:587px !important; }
+	.single-blog iframe { width:606px; height:350px; }
+	.single-blog .video-js { width:606px !important; height:350px !important; }
+	.mdetails { overflow:hidden; }
+	.mdetails h3 { display:block; }
+	.mdetails span { float:left; display:block; }
+	img.resize { max-width:100%; height:auto; }
+	#fancybox-frame, #fancybox-content, #fancybox-wrap, #fancybox-outer { width:688px !important; }
+}
+
+
+/********************************
+IPHONE 4-4S-5 LANDSCAPE (568x320)
+********************************/
+
+@media only screen and (max-width: 760px) {
+	.inside, .welcome-arrow { width:353px; }
+	.welcome-arrow { margin-bottom:20% !important; }
+	.logo { width:100%; text-align:center; margin:0; }
+	.logo img { max-width:353px; height:auto; }
+	.select-menu { margin-top:10px; margin-bottom:20px; width:100%; }
+	.team-list .member { width:287px; margin-bottom:20px; }
+	.team-list .member img.wp-post-image { max-width:287px; height:auto; }
+	.thumbs-animate { width:287px; height:250px; }
+	.team-social ul li { margin-right:8px; }
+	.left-content { width:293px; }
+	.widget_search input[type="text"] { width:202px; }
+	.newsletter input[type="text"] { width:186px; }
+	.single-blog img.wp-post-image { max-width:353px; height:auto; }
+	.single-blog iframe { width:293px; height:200px; }
+	.single-blog .video-js { width:293px !important; height:200px !important; }
+	#respond input[type="text"], #respond textarea, 
+	.children li #respond input[type="text"], .comments ul li #respond input[type="text"],
+	.children li #respond textarea, .comments ul li #respond textarea { width:267px !important; }
+	#respond ul li.last { margin-bottom:20px !important; }
+	.comment-details { width:195px; }
+	.children .parent { margin-left:30px; }
+	.children .parent .comment-details { width:223px; margin-top:15px; }
+	.children .children .parent { margin-left:60px !important; }
+	.children .children .parent .comment-details { width:195px; }
+	.error404 footer { position:relative; }
+	.page-not-found { background-size:353px auto; }
+	.nfound { top:40%; left:17%; }
+	.nfound h2 { font-size:40px; margin-bottom:20px; }
+	/*.cat-list { border:0; }
+	.cat-list li a:link, .cat-list li a:visited { border:1px solid #E4E4E4; margin-right:2px; margin-bottom:2px; }
+	.cat-list li:last-child a { border-right:1px solid #E4E4E4 !important; }*/
+	.cpage #respond { width:302px; }
+	.cpage #respond input[type="text"], .cpage #respond textarea { width:276px !important; }
+	
+	.cat-toogles { display:none; }
+	/*.cat-toogles { position:relative; right:0; margin-bottom:20px; }*/
+	#fancybox-frame, #fancybox-content, #fancybox-wrap, #fancybox-outer { width:353px !important; height:218px; }
+	.blist img, .single-blog img.wp-post-image, .single-blog img.attachment-medium { max-width:293px; height:auto; }
+	.blist .post, .post { width:100%; }
+	#slidecaption { background-position:88% 60px; }
+	#slidecaption a { margin-right:0; padding-right:50px !important; }
+}
+
+
+/********************************
+IPHONE 4-4S-5 PORTRAIT (320x568)
+********************************/
+
+@media only screen and (max-width: 450px) {
+	.inside, .welcome-arrow { width:250px; }
+	.socials ul li a:link, .socials ul li a:visited { padding:25px 6px 37px 6px; }
+	.logo img { max-width:250px; height:auto; }
+	.team-list .member { width:190px; }
+	.team-list .member img.wp-post-image { max-width:190px; }
+	.thumbs-animate { width:190px; height:165px; }
+	.team-social ul li { margin-right:1px; }
+	.left-content, .blist .post, .post, .projects, .archive.tax-project_categories .blist .projects { width:190px; }
+	.link-hover img { max-width:190px; height:auto; }
+	.widget_search input[type="text"] { width:100px; }
+	.sidebar .tab-menu li a { padding:15px 37px; }
+	.sidebar { padding:0; }
+	.newsletter input[type="text"] { width:83px; }
+	.single-blog img.wp-post-image { max-width:250px; }
+	.single-blog iframe { width:190px; height:150px; }
+	.single-blog .video-js { width:190px !important; height:150px !important; }
+	#respond input[type="text"], #respond textarea, .children li #respond input[type="text"], 
+	.comments ul li #respond input[type="text"], .children li #respond textarea, .comments ul li #respond textarea { width:163px !important; }
+	.comment-details { width:190px; margin-top:15px; }
+	.children .parent { margin-left:15px; }
+	.children .parent .comment-details { width:135px; }
+	.children .children .parent { margin-left:30px !important; }
+	.children .children .parent .comment-details { width:120px; }
+	.page-not-found { background-size:250px auto; width:250px; }
+	.nfound { top:28%; left:18%; }
+	.nfound h2 { font-size:30px; margin-bottom:10px; }
+	.nfound label { font-size:14px; }
+	a.visit:link, a.visit:visited { width:90px; }
+	.cpage #respond { width:200px; }
+	.cpage #respond input[type="text"], .cpage #respond textarea { width:174px !important; }
+	.horScroll { height:270px; }
+	#fancybox-frame, #fancybox-content, #fancybox-wrap, #fancybox-outer { width:250px !important; height:155px; }
+	.blist img, .single-blog img.wp-post-image, .single-blog img.attachment-medium { max-width:190px; height:auto; }
+	.the-tags a { margin-bottom:10px; }
+	.single-details ul li { margin-right:0; }
+}

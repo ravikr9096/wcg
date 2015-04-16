@@ -1,0 +1,723 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-29 16:50+0800\n"
+"PO-Revision-Date: 2013-10-29 16:50+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ./\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:10
+msgid "Error 404"
+msgstr ""
+
+#: ../archive.php:10
+msgid "Posts Tagged: "
+msgstr ""
+
+#: ../archive.php:12
+#: ../archive.php:14
+#: ../archive.php:16
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../archive.php:14
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:16
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:50
+msgid "You should add a record for your Blog Post"
+msgstr ""
+
+#: ../comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:21
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:23
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:24
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:33
+msgid "Your Comment"
+msgstr ""
+
+#: ../comments.php:34
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:46
+msgid "Recent comments"
+msgstr ""
+
+#: ../comments.php:61
+msgid "No Comments Yet"
+msgstr ""
+
+#: ../comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: ../functions.php:200
+msgid "Home"
+msgstr ""
+
+#: ../functions.php:305
+msgid "Load More"
+msgstr ""
+
+#: ../functions.php:367
+msgid "Filter Works"
+msgstr ""
+
+#: ../functions.php:372
+msgid "View all"
+msgstr ""
+
+#: ../functions.php:433
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:459
+msgid "&laquo;"
+msgstr ""
+
+#: ../functions.php:460
+msgid "&raquo;"
+msgstr ""
+
+#: ../functions.php:482
+msgid "Previous"
+msgstr ""
+
+#: ../functions.php:486
+msgid "Next"
+msgstr ""
+
+#: ../functions.php:535
+#: ../functions.php:536
+msgid "Custom Sidebar"
+msgstr ""
+
+#: ../functions.php:552
+msgid "Choose a sidebar to display except footer columns"
+msgstr ""
+
+#: ../functions.php:558
+msgid "Default"
+msgstr ""
+
+#: ../functions.php:614
+msgid "Custom Link"
+msgstr ""
+
+#: ../functions.php:617
+msgid "add your custom link for title here"
+msgstr ""
+
+#: ../loop-entry.php:18
+msgid "Keep reading"
+msgstr ""
+
+#: ../search.php:6
+msgid "Search Results"
+msgstr ""
+
+#: ../search.php:53
+msgid "No Results Found on your Query"
+msgstr ""
+
+#: ../searchform.php:2
+msgid "Search Keyword"
+msgstr ""
+
+#: ../sidebar-blog.php:5
+#: ../sidebar-header.php:5
+#: ../sidebar.php:5
+msgid "This is a widget area, so please add widgets here..."
+msgstr ""
+
+#: ../single-projects.php:73
+msgid "No Attachment"
+msgstr ""
+
+#: ../single-projects.php:247
+msgid "Visit Link"
+msgstr ""
+
+#: ../taxonomy-project_categories.php:27
+#: ../template-projects.php:44
+msgid "You should add a record for your Project Post"
+msgstr ""
+
+#: ../template-about.php:57
+msgid "Who is behind Arch"
+msgstr ""
+
+#: ../template-contact.php:63
+msgid "Name <span>(Required)</span>"
+msgstr ""
+
+#: ../template-contact.php:67
+msgid "Email <span>(Required)</span>"
+msgstr ""
+
+#: ../template-contact.php:71
+msgid "Message"
+msgstr ""
+
+#: ../includes/custom/custom-fields.php:19
+msgid "Video Host"
+msgstr ""
+
+#: ../includes/custom/custom-fields.php:25
+msgid "Select your video host here either YouTube, Vimeo or Self Hosted"
+msgstr ""
+
+#: ../includes/custom/custom-fields.php:29
+#: ../includes/custom/custom-posts.php:70
+msgid "Video"
+msgstr ""
+
+#: ../includes/custom/custom-fields.php:32
+msgid "Add your video url here or just click upload for self hosted video (ex. http://player.vimeo.com/video/21942776 and http://www.youtube.com/v/f2XQ97XHjVw)"
+msgstr ""
+
+#: ../includes/custom/custom-fields.php:36
+#: ../includes/custom/custom-fields.php:77
+#: ../includes/custom/custom-posts.php:77
+msgid "Background"
+msgstr ""
+
+#: ../includes/custom/custom-fields.php:39
+#: ../includes/custom/custom-fields.php:80
+#: ../includes/custom/custom-posts.php:80
+msgid "Add your background image here"
+msgstr ""
+
+#: ../includes/custom/custom-fields.php:63
+msgid "Page Title"
+msgstr ""
+
+#: ../includes/custom/custom-fields.php:66
+msgid "Add your page title here if you want another title header"
+msgstr ""
+
+#: ../includes/custom/custom-fields.php:70
+msgid "Hide Page Title"
+msgstr ""
+
+#: ../includes/custom/custom-fields.php:73
+msgid "Check this if you want to hide the page title"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:49
+msgid "Exclude"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:52
+msgid "Check this if you want to exclude this album in your project list"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:56
+msgid "Slider"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:59
+msgid "Check this if you want to include this album in background slider"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:66
+msgid "Add your project website or link here"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:73
+msgid "Add your video url here (ex: http://player.vimeo.com/video/21942776 and http://www.youtube.com/v/f2XQ97XHjVw)"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:104
+msgid "Categories"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:105
+#: ../includes/custom/custom-posts.php:181
+#: ../includes/custom/custom-posts.php:317
+msgid "Author"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:106
+#: ../includes/custom/custom-posts.php:318
+msgid "Thumbnail"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:107
+#: ../includes/custom/custom-posts.php:182
+#: ../includes/custom/custom-posts.php:319
+msgid "Date"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:130
+msgid "No Categories"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:179
+msgid "Title"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:180
+msgid "Icon"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:250
+#: ../includes/custom/custom-posts.php:316
+msgid "Position"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:253
+msgid "Add the position of this member"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:257
+msgid "Facebook"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:260
+msgid "Add the facebook username of this member"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:264
+msgid "Twitter"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:267
+msgid "Add the twitter username of this member"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:271
+msgid "Tumblr"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:274
+msgid "Add the tumblr id of this member"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:278
+msgid "Pinterest"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:281
+msgid "Add the pinterest username of this member"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:285
+msgid "Behance"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:288
+msgid "Add the behance username of this member"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:292
+msgid "Dribbble"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:295
+msgid "Add the dribbble username of this member"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:299
+msgid "Youtube"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:302
+msgid "Add the youtube channel of this member"
+msgstr ""
+
+#: ../includes/custom/custom-posts.php:333
+msgid "Unknown"
+msgstr ""
+
+#: ../includes/mabuc-panel/generator.php:9
+msgid "Settings"
+msgstr ""
+
+#: ../includes/mabuc-panel/generator.php:12
+msgid "Enter your Settings for"
+msgstr ""
+
+#: ../includes/mabuc-panel/generator.php:13
+msgid "If you have any questions please refer to the user manual."
+msgstr ""
+
+#: ../includes/mabuc-panel/generator.php:48
+msgid "open"
+msgstr ""
+
+#: ../includes/tgm/activation.php:78
+#: ../includes/tgm/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../includes/tgm/activation.php:79
+#: ../includes/tgm/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+#: ../includes/tgm/activation.php:80
+#: ../includes/tgm/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../includes/tgm/activation.php:81
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../includes/tgm/activation.php:92
+#: ../includes/tgm/class-tgm-plugin-activation.php:178
+#: ../includes/tgm/class-tgm-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../includes/tgm/activation.php:93
+#: ../includes/tgm/class-tgm-plugin-activation.php:179
+#: ../includes/tgm/class-tgm-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../includes/tgm/activation.php:94
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:517
+#: ../includes/tgm/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1955
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1956
+#: ../includes/tgm/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1956
+#: ../includes/tgm/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1962
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../includes/tgm/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/widgets/widget-dribbble.php:10
+msgid "Arch custom widget for dribbble feed"
+msgstr ""
+
+#: ../includes/widgets/widget-dribbble.php:11
+msgid "Arch: Custom Dribbble Feed"
+msgstr ""
+
+#: ../includes/widgets/widget-dribbble.php:80
+#: ../includes/widgets/widget-flickr.php:85
+#: ../includes/widgets/widget-newsletter.php:80
+#: ../includes/widgets/widget-twitter.php:109
+#: ../includes/widgets/widget-video.php:58
+msgid "Title:"
+msgstr ""
+
+#: ../includes/widgets/widget-dribbble.php:84
+msgid "User ID:"
+msgstr ""
+
+#: ../includes/widgets/widget-dribbble.php:87
+#: ../includes/widgets/widget-tab.php:198
+#: ../includes/widgets/widget-twitter.php:119
+msgid "Limit:"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:9
+msgid "Arch custom widget for flickr feed"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:10
+msgid "Arch: Custom Flickr Feed"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:89
+#: ../includes/widgets/widget-twitter.php:113
+msgid "ID:"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:92
+msgid "Number of Photos:"
+msgstr ""
+
+#: ../includes/widgets/widget-newsletter.php:9
+msgid "Arch custom widget for newsletter"
+msgstr ""
+
+#: ../includes/widgets/widget-newsletter.php:10
+msgid "Arch: Custom Newsletter"
+msgstr ""
+
+#: ../includes/widgets/widget-newsletter.php:84
+msgid "Uri:"
+msgstr ""
+
+#: ../includes/widgets/widget-newsletter.php:87
+msgid "Text Label:"
+msgstr ""
+
+#: ../includes/widgets/widget-newsletter.php:90
+msgid "Submit Label:"
+msgstr ""
+
+#: ../includes/widgets/widget-newsletter.php:93
+msgid "Brief Description:"
+msgstr ""
+
+#: ../includes/widgets/widget-tab.php:9
+msgid "Arch custom widget for tabs"
+msgstr ""
+
+#: ../includes/widgets/widget-tab.php:10
+msgid "Arch: Custom Tabs"
+msgstr ""
+
+#: ../includes/widgets/widget-tab.php:186
+msgid "You can add only 2 tabs (Popular and Recent)"
+msgstr ""
+
+#: ../includes/widgets/widget-tab.php:188
+msgid "Tab 1:"
+msgstr ""
+
+#: ../includes/widgets/widget-tab.php:193
+msgid "Tab 2:"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:10
+msgid "Arch custom widget for twitter feed"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:11
+msgid "Arch: Custom Twitter Feed"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:116
+msgid "Avatar Size:"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:122
+msgid "Loading Text:"
+msgstr ""
+
+#: ../includes/widgets/widget-video.php:9
+msgid "Arch custom widget for video"
+msgstr ""
+
+#: ../includes/widgets/widget-video.php:10
+msgid "Arch: Custom Video"
+msgstr ""
+
+#: ../includes/widgets/widget-video.php:62
+msgid "Video URL:"
+msgstr ""
+
+#: ../includes/widgets/widget-video.php:65
+msgid "Please enter the entire embedd codes from vimeo, youtube or dailymotion"
+msgstr ""
+
+#: ../includes/widgets/widgets.php:10
+msgid "Sidebar"
+msgstr ""
+
+#: ../includes/widgets/widgets.php:12
+msgid "Main sidebar of the theme"
+msgstr ""
+
+#: ../includes/widgets/widgets.php:20
+msgid "Header"
+msgstr ""
+
+#: ../includes/widgets/widgets.php:22
+msgid "Header widgets of the theme"
+msgstr ""
+
+#: ../includes/widgets/widgets.php:30
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../includes/widgets/widgets.php:32
+msgid "Blog widgets of the theme"
+msgstr ""
+

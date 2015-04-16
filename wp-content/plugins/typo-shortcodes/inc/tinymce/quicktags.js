@@ -1,0 +1,11 @@
+edButtons[edButtons.length] = new edButton( 'alert', 'alert', '[alert style="info"]', '[/alert]', '' );
+edButtons[edButtons.length] = new edButton( 'blockquotes', 'blockquotes', '[blockquote style="style2"]', '[/blockquote]', '' );
+edButtons[edButtons.length] = new edButton( 'buttons', 'buttons', '[a href="http://themeforest.net/user/EngineThemes" style="small" title="" target="_blank"]', '[/a]', '' );
+edButtons[edButtons.length] = new edButton( 'unordered list', 'unordered list', '[ul style="balloon"][li]', '[/li][/ul]', '' );
+edButtons[edButtons.length] = new edButton( 'dropcaps', 'dropcaps', '[dropcap style="dropcap"]', '[/dropcap]', '' );
+edButtons[edButtons.length] = new edButton( 'columns', 'columns', '[columns style="one-half"]', '[/columns]', '' );
+edButtons[edButtons.length] = new edButton( 'tabs', 'tabs', '[tabgroup][tab title=""]', '[/tab][/tabgroup]', '' );
+edButtons[edButtons.length] = new edButton( 'toggle', 'toggle', '[toggle title=""]', '[/toggle]', '' );
+edButtons[edButtons.length] = new edButton( 'image', 'image', '[image src="http://wp.themecss.com/Source/wp-content/uploads/2012/12/bg.jpg" width="100%" height="auto" title="" style="resize"]', '', '' );
+edButtons[edButtons.length] = new edButton( 'video', 'video', '[video site="vimeo" id="21942776" w="100%" h="400"]', '', '' );
+edButtons[edButtons.length] = new edButton( 'google map', 'google map', '[googlemap src="https://maps.google.com/?ll=39.061849,-99.536133&spn=14.980005,33.815918&t=m&z=6" width="100%" height="400"]', '', '' );

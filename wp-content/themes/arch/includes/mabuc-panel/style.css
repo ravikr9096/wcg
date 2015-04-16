@@ -1,0 +1,78 @@
+/**********************************************
+ADMIN THEME OPTIONS SYTLES
+***********************************************/
+
+.mabuc_wrap { 
+	width:1119px; background:url('img/bg.png') repeat; padding:20px; margin-top:20px; 
+	border-radius:4px; -moz-border-radius:4px; -webkit-border-radius:4px; border:1px solid #e2e2e2;
+}
+.mabuc_wrap h2 { 
+	background:#000; background:rgba(0,0,0,0.6); color:#FFF !important; padding:10px; font:bold 20px 'arial', sans-serif !important; text-shadow:none !important; text-transform:uppercase; position:relative; 
+	border-radius:4px; -moz-border-radius:4px; -webkit-border-radius:4px;  
+}
+.mabuc_section { border-bottom:1px solid #CCC; border-right:1px solid #CCC; border-left:1px solid #CCC; background:#f9f9f9; }
+.mabuc_section h4 { font-size:15px; text-transform:uppercase; margin:0; padding:13px; background:#CCC; text-shadow:0 1px 1px #EEE; }
+.mabuc_opts { position:relative; }
+.mabuc_opts form { border-top:1px solid #CCC; }
+.mabuc_opts label { font-size:12px; font-weight:700; width:250px; display:block; float:left; margin-top:6px; }
+.mabuc_input { padding:20px; border-bottom:1px solid #ddd; }
+.mabuc_opts small { display:block; float:right; width:300px; color:#999; }
+.mabuc_opts input[type="text"], .mabuc_opts select { width:488px; font-size:12px; padding:6px; color:#333; line-height:1em; background:#f3f3f3; height:auto; }
+.mabuc_input input:focus, .mabuc_input textarea:focus{ background:#fff; }
+.mabuc_input textarea {	width:488px; height:150px; font-size:12px; padding:6px; color:#333; line-height:1.5em; background:#f3f3f3; }
+.mabuc_title { cursor:pointer; background:#DDD; padding:0; }
+.mabuc_title h3 { cursor:pointer; font:bold 12px arial; text-transform: uppercase; margin:0; color:#333; padding:13px; display:block; }
+.mabuc_title h3 span { background:#999; color:#FFF; padding:4px 8px; font-size:9px; margin-top:-3px; float:right; }
+.mabuc_title i { margin-right:10px; color:#999; font-size:13px; }
+.mabuc_title:hover { background:#d8d7d7; }
+.mabuc_title h3 img.inactive { margin:-8px 10px 0 2px; width:32px; height:32px; background:url('images/pointer.png') no-repeat 0 0; float:left; }
+.mabuc_title h3.active { background:#d3d3d3; }
+.mabuc_title span.submit { display:block; float:right; margin:0 20px 0 0; padding:0; width:15%; padding:14px 0; }
+.mabuc_title span.submit input { background:#FFF !important; border:0 !important; text-transform:uppercase; border-radius:6px !important; }
+.clearfix { clear:both; }
+.mabuc_table th, .mabuc_table td { border:1px solid #bbb; padding:10px; text-align:center; }
+.mabuc_table th, .mabuc_table td.feature{ border-color:#888; }
+.mabuc_checkbox input[type='checkbox'] { margin-top:8px; display:inline-block; }
+.version { 
+	text-transform:lowercase; position:absolute; right:10px; top:-3px; font:bold 12px arial; background:#000; color:#FFF; padding:6px 10px; 
+	border-radius:4px; -moz-border-radius:4px; -webkit-border-radius:4px;
+}
+.form-wrap { margin-bottom:10px !important; }
+
+.mabuc-form-wrap { padding:12px 10px 0;  }
+.mabuc-form-wrap table { width:100%; font-size:12px; }
+.mabuc-form-wrap table td { padding-bottom:10px; vertical-align:top; }
+.mabuc-form-wrap label { vertical-align:top; font-weight:bold; display:inline-block; }
+.mabuc-form-wrap input[type='text'] { width:90%; padding:6px; margin-bottom:4px; margin-left:0; margin-top:0; }
+.mabuc-form-wrap input[type='checkbox'] { display:inline-block; margin-right:6px; }
+.mabuc-form-wrap select { padding:6px; margin-right:6px; height:auto; }
+.mabuc-form-wrap textarea { width:90%; height:100px; padding:6px; margin:0; margin-bottom:4px; }
+.btn-actions { margin-top:20px; }
+div.updated, div.error { margin-top:15px !important; margin-right:0 !important; }
+.ipreview { margin-left:20.9em; margin-top:10px; }
+span.desc { font-size:11px; color:#666; font-style:italic; }
+.btn-actions .button-primary { height:30px !important; }
+.mabuc_options .button-secondary, .mabuc-form-wrap .button-secondary { height:28px !important; }
+.mabuc_options h3 { margin-top:20px; margin-bottom:15px; font-size:12px; margin-left:20px; text-transform:uppercase; display:inline-block; background:#2175B6; color:#FFF; padding:2px 4px 1px; }
+.mabuc_options .wp-color-picker { width:100px !important; margin-right:6px; }
+.mabuc_options .wp-picker-clear { height:29px !important; }
+.mabuc_options .wp-color-result:after { line-height:29px !important; }
+.mabuc_options .wp-color-result { height:29px !important; }
+.mabuc_options .mabuc_input:last-child { border-bottom:0 !important; }
+
+
+/**********************************************
+FONTAWESOME STYLES
+***********************************************/
+
+.the-icons { overflow:hidden; }
+.the-icons span { text-decoration:none; padding-right:10px; }
+.the-icons li { float:left; margin-bottom:0; border:1px solid #CCC; margin-right:2px; margin-top:2px; }
+.the-icons{ list-style-type:none;margin:0; }
+.the-icons li [class^="icon-"], .the-icons li [class*=" icon-"]{ display:inline-block; width:1.2857142857142858em; text-align:center }
+.the-icons li span { display:block; cursor:pointer; line-height:32px; height:32px; }
+.the-icons li span, .the-icons li span:hover { color:#222 }
+.the-icons li span [class^="icon-"], .the-icons li span [class*=" icon-"] { width:32px; font-size:14px }
+.the-icons li span:hover { background-color:#CCC; text-decoration:none }
+.the-icons li span:hover [class^="icon-"], .the-icons li span:hover [class*=" icon-"] { *font-size:28px; *vertical-align:middle; }
+.the-icons li span:hover [class^="icon-"]:before, .the-icons li span:hover [class*=" icon-"]:before{ font-size:28px; vertical-align:-5px; }

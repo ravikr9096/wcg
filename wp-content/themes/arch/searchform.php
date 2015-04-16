@@ -1,0 +1,3 @@
+<form action="<?php echo esc_url( home_url( '/' ) ); ?>" method="get" id="searchform">
+	<p><input type="text" id="s" name="s" value="<?php if(get_option('arch_search_label')!="") { echo get_option('arch_search_label'); } else { _e( 'Search Keyword', ENGINE_THEME_NAME ); } ?>" onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;" /> <input type="submit" name="submit" id="searchsubmit" value="Search" /></p>
+</form>

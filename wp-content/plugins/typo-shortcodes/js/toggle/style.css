@@ -1,0 +1,23 @@
+h4.toggle { 
+    border:1px solid #DEDEDE; padding:12px 20px; display:block; font-size:13px; color:#767676; text-shadow:0 1px 1px #FFF; margin-bottom:0 !important; margin-top:-1px;
+	border-radius:4px; -moz-border-radius:4px; -webkit-border-radius:4px;
+	background: #F2F2F2; /* Old browsers */
+	background: -moz-linear-gradient(top, #F2F2F2 0%, #ECECEC 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#F2F2F2), color-stop(100%,#ECECEC)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #F2F2F2 0%,#ECECEC 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #F2F2F2 0%,#ECECEC 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #F2F2F2 0%,#ECECEC 100%); /* IE10+ */
+	background: linear-gradient(top, #F2F2F2 0%,#ECECEC 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F2F2F2', endColorstr='#ECECEC',GradientType=0 ); /* IE6-9 */
+	box-shadow: inset 0px 1px 0px #FFF;
+	-webkit-box-shadow: inset 0px 1px 0px #FFF;
+	-moz-box-shadow: inset 0px 1px 0px #FFF;
+}
+h4.toggle a { color: #999; text-decoration: none; display: block; }
+h4.toggle:hover { background:#EEE; }
+h4.active, h4.active:hover { background:#EEE; }
+h4.active a { color:#333; text-shadow:0 1px 1px #FFF; }
+.toggle_container { 
+	overflow:hidden; border-left:1px solid #ECECEC; border-right:1px solid #ECECEC; border-bottom:1px solid #ECECEC; background:#FFF; 
+	padding:22px 22px 7px 22px; margin-top:-3px; padding-bottom:20px;
+}
